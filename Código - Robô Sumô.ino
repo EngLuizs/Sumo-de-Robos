@@ -23,7 +23,7 @@ Data.............: 06/2025
   void buzzer_off();
 
 // DEFININDO PINOS SENSOR ULTRASSÔNICOS
-  HC_SR04 SensorUF(26,25);  //(TRIG,ECHO)
+  HC_SR04 SensorUF(26,25);  //(Trigger, Echo)
   HC_SR04 SensorUT(33,32);
   HC_SR04 SensorUD(4,16);
   HC_SR04 SensorUE(17,18);
